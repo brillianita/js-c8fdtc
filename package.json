@@ -1,0 +1,9 @@
+{
+  "name": "js-qcam3s",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {},
+  "assets": [
+        "assets"
+  ]      
+}
